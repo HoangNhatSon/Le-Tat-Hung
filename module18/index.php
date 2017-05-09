@@ -4,7 +4,6 @@
 
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js" type="text/javascript"></script>
         <link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
 
         <?php
@@ -51,7 +50,7 @@
             
             <div class="col-md-3 lasticon">
                 <ul>
-                    <a href="#"><li><i class="fa fa-trash"></i></li></a>
+                    <a href="#"><li><i class="fa fa-shopping-bag" aria-hidden="true"></i></li></a>
                     <a href="#"><li><i class="fa fa-search"></i></li></a>
                     <a href="#"><li><i class="fa fa-bars"></i></li></a>
                 </ul>

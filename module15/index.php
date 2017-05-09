@@ -4,7 +4,6 @@
         
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js" type="text/javascript"></script>
         <link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
        
         <?php
@@ -94,6 +93,80 @@
                                     <i class="fa fa-star" aria-hidden="true"></i>
                                     <i class="fa fa-star" aria-hidden="true"></i>
                                     <i class="fa fa-star-o" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="hinh"><img src="images/product7-600x600.jpg" alt=""/></div>
+                            <h3>Antipasti</h3>
+                            <h5>$10.00</h5>
+                            <div class="icon">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="hinh"><img src="images/product8-600x600.jpg" alt=""/></div>
+                            <h3>Easy Meal</h3>
+                            <h5>$36.00</h5>
+                            <div class="icon">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star-o" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="hinh"><img src="images/product9-600x600.jpg" alt=""/></div>
+                            <h3>Lemon Tart</h3>
+                            <h5>$150.00</h5>
+                            <div class="icon">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="hinh"><img src="images/product10-600x600.jpg" alt=""/></div>
+                            <h3>Grilled Pizza</h3>
+                            <h5>$25.00</h5>
+                            <div class="icon">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="hinh"><img src="images/product11-600x600.jpg" alt=""/></div>
+                            <h3>Best Steak</h3>
+                            <h5>$12.00</h5>
+                            <div class="icon">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="hinh"><img src="images/product-gallery1.jpg" alt=""/></div>
+                            <h3>Feta Salad</h3>
+                            <h5>$36.00</h5>
+                            <div class="icon">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
                             </div>
                         </div>
                     </div>
